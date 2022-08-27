@@ -22,8 +22,8 @@
     "release": "release-it"
   },
   "devDependencies": {
-    "@commitlint/cli": "17.0.3",
-    "@commitlint/config-angular": "17.0.3",
+    "@commitlint/cli": "17.1.0",
+    "@commitlint/config-angular": "17.1.0",
     "@types/jest": "28.1.8",
     "@typescript-eslint/eslint-plugin": "5.35.1",
     "eslint": "8.23.0",
