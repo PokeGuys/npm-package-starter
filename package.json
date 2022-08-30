@@ -24,7 +24,7 @@
   "devDependencies": {
     "@commitlint/cli": "17.1.2",
     "@commitlint/config-angular": "17.1.0",
-    "@types/jest": "28.1.8",
+    "@types/jest": "29.0.0",
     "@typescript-eslint/eslint-plugin": "5.35.1",
     "eslint": "8.23.0",
     "eslint-config-airbnb-typescript": "17.0.0",
